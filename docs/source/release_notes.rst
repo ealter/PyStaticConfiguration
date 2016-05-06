@@ -2,6 +2,10 @@
 Release Notes
 =============
 
+v0.9.2
+------
+Adds PatchConfiguration
+
 v0.9.0
 ------
 * support different file comparison strategies for the ConfigurationWatcher
